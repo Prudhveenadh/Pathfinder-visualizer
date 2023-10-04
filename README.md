@@ -1,2 +1,2 @@
 # Pathfinder-visualizer
-#About
+**#About**
